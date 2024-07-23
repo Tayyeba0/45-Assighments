@@ -1,4 +1,4 @@
-// Q.40 Album
+// Q.40 Album make album function
 type talbum = {name : string , album : string , track_num?: number}
 
 function make_album(artist_name: string , album_title : string , track? : number):talbum{

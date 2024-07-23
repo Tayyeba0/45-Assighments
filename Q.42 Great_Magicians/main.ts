@@ -1,4 +1,4 @@
-// Q.42 Great magicians
+// Q.40 Album
 type talbum = {name : string , album : string , track_num?: number}
 
 function make_album(artist_name: string , album_title : string , track? : number):talbum{
